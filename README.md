@@ -11,12 +11,16 @@ The ENE331 Lab Challenge is an experiment involving the use of the STM32 Microco
 ![image](https://github.com/user-attachments/assets/c1ba8bc3-cd10-4708-8f1d-5df1c1c531c8)
 # Result
 STM32 Circuit
-![image](https://github.com/user-attachments/assets/58eed47a-3398-4853-b67b-c838bb0168f0)
-![image](https://github.com/user-attachments/assets/22baf6f5-e11a-461e-a90e-ff785d879428)
+![image](https://github.com/user-attachments/assets/44ae7f62-5702-4024-8646-7fb11c002624)
+![image](https://github.com/user-attachments/assets/96e8b987-177b-4c4e-a7d8-e29468167977)
+
 # Calculation
 - Frequncy
+  
 ![image](https://github.com/user-attachments/assets/f3c041aa-ac42-42a6-8e72-2cdd1682014f)
 - Prescaler
+  
 ![image](https://github.com/user-attachments/assets/2d04546e-da81-4fd9-8ed8-dd0137334a07)
 - Tricks
+  
 ![image](https://github.com/user-attachments/assets/770239a6-a351-4b94-b9ab-7e45a1bb3026)
